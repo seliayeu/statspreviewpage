@@ -1,0 +1,17 @@
+.statCardPage {
+    margin: 0px;
+    background-color:  hsl(233, 47%, 7%);
+    height: 100%;
+    min-height : '100vh';
+    position: absolute; 
+    top: 0; 
+    right: 0; 
+    bottom: 0; 
+    left: 0;
+    z-index: -1;
+    display: table-row;
+ }
+
+ .padding {
+     padding-bottom: 24vh;
+ }
